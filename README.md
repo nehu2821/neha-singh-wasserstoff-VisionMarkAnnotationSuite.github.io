@@ -23,7 +23,7 @@ The backend services cover the following functionalities:
 
 To get started with VisionMark AI backend services, follow these steps:
 
-1. **Clone the repository**: `git clone https://github.com/Dixit-56/dixit-pipalva-wasserstoff-VisionMarkAnnotationSuite`
+1. **Clone the repository**: `git clone https://github.com/nehu2821/neha-singh-wasserstoff-VisionMarkAnnotationSuite.github.io`
 2. **Install dependencies**: `npm install`
 3. **Set up MongoDB**: Ensure MongoDB is installed and running locally or configure connection settings accordingly.
 4. **Configure environment variables**: Set up environment variables for sensitive information such as database connection strings and JWT secrets.
